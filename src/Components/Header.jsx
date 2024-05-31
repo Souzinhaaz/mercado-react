@@ -28,6 +28,7 @@ export const Header = () => {
     <HeaderArea>
       <Link to="/">Store</Link>
       <Link to="/cart">Cart</Link>
+      <Link to="/profile">My Profile</Link>
     </HeaderArea>  
   )
 }
